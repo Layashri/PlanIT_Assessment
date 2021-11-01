@@ -1,5 +1,9 @@
 This has been designed using Serenity BDD with POM. 
 
+Pre-requisties:
+Maven dependencies from pom.xml are required for execution
+
+
 Please use the below Maven command to execute the Test scripts
 
 To execute all test cases:
