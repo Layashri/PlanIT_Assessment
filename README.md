@@ -10,4 +10,4 @@ To execute specific test cases using tags :
 
 			mvn clean verify -Dcucumber.filter.tags="@Regression" -Denvironment=sit
 			
-Reports can be found in Target folder after execution.
+Reports can be found in Target folder(target -> site-> serenity -> index.html) after execution.
